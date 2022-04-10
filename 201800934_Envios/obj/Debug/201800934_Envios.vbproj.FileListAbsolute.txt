@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\201800934_Envios\bin\Debug\201800934_Envios.exe.config
+C:\Users\ASUS\source\repos\201800934_Envios\bin\Debug\201800934_Envios.exe
+C:\Users\ASUS\source\repos\201800934_Envios\bin\Debug\201800934_Envios.pdb
+C:\Users\ASUS\source\repos\201800934_Envios\bin\Debug\201800934_Envios.xml
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\201800934_Envios.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\_201800934_Envios.Form1.resources
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\_201800934_Envios.Resources.resources
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\201800934_Envios.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\201800934_Envios.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\201800934_Envios.exe
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\201800934_Envios.xml
+C:\Users\ASUS\source\repos\201800934_Envios\obj\Debug\201800934_Envios.pdb
